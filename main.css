@@ -1,0 +1,63 @@
+body{
+    background: url("colmeia.jpg");
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#idContainer{
+    margin: 100px;
+    
+}
+#txtMsg{
+    font-size: 12px;
+    margin-left: 5px;
+    border-radius: 30px;
+}
+button{
+    background-color: black;
+    font-size: 1.3em;
+    color: white;
+    border-radius: 20px;
+    cursor:pointer;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px red;
+}
+
+#selModel{
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#selLang{
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+#txtMsg, #txtOutput{
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#elementos{
+    display: block;
+    align-items: center;
+}
+#btnSend{
+    padding: 5px 5px 5px 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+footer h2 {
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 01.0rem;
+    font-weight: 500;
+    color: #fff;
+    background: red;
+  }
